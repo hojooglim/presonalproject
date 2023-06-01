@@ -11,6 +11,7 @@ public class Main {
         Kiosks cancel = new Cancel();
         Kiosks finish = new finish();
 
+        Menu test = new Menu();
         Kiosks.start = 'S';
         Kiosks.t = 1;
 
