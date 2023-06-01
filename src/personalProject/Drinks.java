@@ -1,6 +1,4 @@
-package program;
-
-import java.util.Scanner;
+package personalProject;
 
 public class Drinks extends Kiosks {
     Drinks(){}

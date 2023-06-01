@@ -1,6 +1,6 @@
-package program;
+package personalProject;
 
-public class finish extends Kiosks{
+public class finish extends Kiosks {
     finish(){}
     void finish(){
         System.out.println("주문이 완료되었습니다.");

@@ -1,4 +1,4 @@
-package program;
+package personalProject;
 
 import java.util.ArrayList;
 import java.util.Scanner;

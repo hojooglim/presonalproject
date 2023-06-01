@@ -1,6 +1,6 @@
-package program;
+package personalProject;
 
-import java.util.Scanner;
+import personalProject.Kiosks;
 
 public class Order extends Kiosks {
     Order(){}
